@@ -1,10 +1,10 @@
 {
 	"Title": "Contoso Air",
 	"Home": {
-		"HeroMessage": "Donde<br>quieres ir?"
+		"HeroMessage": "Test Tournament"
 	},
 	"Deals": {
-		"CitiesTitle": "Recomendado para ti",
+		"CitiesTitle": "TT Tournament 2019",
 		"FlightsTitle": "Detalles de vuelos",
 		"FlightsTo": "a ",
 		"FlightsPrice": "Compra por ",
