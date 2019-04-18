@@ -1,8 +1,8 @@
 {
     "Title": "Contoso Air",
-	"Home": {
-		"HeroMessage": "Fly Fly Fly"
-	},
+  "Home": {
+    "HeroMessage": "change it to DatumSquare VSLaunch Demo"
+  },
 	"Deals": {
 		"CitiesTitle": "Personalized Recommendations",
 		"FlightsTitle": "Flight deals",
